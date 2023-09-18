@@ -1,0 +1,6 @@
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\obj\Debug\sicxegramLexer.cs
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\obj\Debug\sicxegramParser.cs
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\obj\Debug\sicxegramListener.cs
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\obj\Debug\sicxegramBaseListener.cs
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\obj\Debug\sicxegramVisitor.cs
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\obj\Debug\sicxegramBaseVisitor.cs

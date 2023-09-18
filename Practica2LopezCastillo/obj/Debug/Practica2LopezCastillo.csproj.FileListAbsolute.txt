@@ -1,0 +1,17 @@
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\bin\Debug\Practica2LopezCastillo.exe.config
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\bin\Debug\Practica2LopezCastillo.exe
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\bin\Debug\Practica2LopezCastillo.pdb
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\obj\Debug\Practica2LopezCastillo.csproj.CoreCompileInputs.cache
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\obj\Debug\Practica2LopezCastillo.exe
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\obj\Debug\Practica2LopezCastillo.pdb
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\obj\Debug\sicxegramLexer.cs
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\obj\Debug\sicxegramParser.cs
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\obj\Debug\sicxegramListener.cs
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\obj\Debug\sicxegramBaseListener.cs
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\obj\Debug\sicxegramVisitor.cs
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\obj\Debug\sicxegramBaseVisitor.cs
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\obj\Debug\Practica2LopezCastillo.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\bin\Debug\Antlr4.Runtime.dll
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\bin\Debug\Antlr4.Runtime.xml
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\obj\Debug\Practica2LopezCastillo.csproj.CopyComplete
+C:\Users\lopez\source\repos\Practica2LopezCastillo\Practica2LopezCastillo\obj\Debug\Practica2LopezCastillo.csprojAssemblyReference.cache
